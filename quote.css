@@ -1,0 +1,86 @@
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+#box {
+    margin-top: 10%;
+    margin-bottom: 10%;
+    background-color:#fff;
+    position: relative;
+  width: 450px;
+  padding: 40px 50px;
+  
+    border-radius: 10px;
+}
+
+#text {
+    padding: 10px;
+    text-align: center;
+}
+
+#new {
+    margin-top: 20px;
+}
+#bo{
+    background-color: #506843;
+    background-position: ;
+}
+body {
+    background-color: #333;
+    color: #333;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  #buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 30px; /* Adjust spacing between buttons */
+  }
+  #buttons a:hover,
+#buttons button:hover {
+  background-color: #342224; /* Darker shade for hover */
+  cursor: pointer;
+}
+#buttons a,
+#buttons button {
+  background-color: #472E32; /* Example button color */
+  color: white;
+  padding: 10px 10px;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  
+}
+#buttons a{
+    margin-left:10px;
+    margin-right:30px;
+    margin-top:20px;
+}
+ 
+  #button {
+    background-color: #472E32; /* Example button color */
+    color: white;
+    
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  
+  
+ 
